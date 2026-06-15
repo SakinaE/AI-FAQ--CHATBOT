@@ -40,5 +40,3 @@ The AI FAQ Chatbot is an NLP-based chatbot developed using Python and Streamlit.
 - Database integration
 - AI-powered intent recognition
 
-## Screenshots
-! [Home Page] (FAQ home.png)
